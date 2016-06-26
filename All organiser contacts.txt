@@ -1,0 +1,61 @@
+"[ev@=sample.Person@bd70e1, key:11604148=sample.Person@13fafe9, key:27846509=sample.Person@63297, pam@=sample.Person@ec15ff, rom@=sample.Person@acf0a9, valera@=sample.Person@c8199b]
+the firstname is: eva ;
+the lastname is: braun;
+the phone number is: 23442;
+the age of the person is: 49;
+the year of birthday is: 0
+email: ev@
+address: israel
+HOME phone: 4353
+MOBILE phone: 45645
+MOBILE phone: 34543
+MOBILE phone: 43534
+MOBILE phone: 3345
+
+
+the firstname is: roman;
+the lastname is: Panin;
+the phone number is: ;
+the age of the person is: 0;
+the year of birthday is: 0
+email: key:11604148
+address: Ukraine
+MOBILE phone: 3453
+
+
+the firstname is: pavel;
+the lastname is: stupkin;
+the phone number is: ;
+the age of the person is: 0;
+the year of birthday is: 0
+email: key:27846509
+address: 
+INTERNET phone: 3242
+
+
+the firstname is: pamella;
+the lastname is: Anderson;
+the phone number is: 32453;
+the age of the person is: 0;
+the year of birthday is: 0
+email: pam@
+address: Nev-York
+
+
+the firstname is: roman;
+the lastname is: bunin;
+the phone number is: 3242;
+the age of the person is: 17;
+the year of birthday is: 1999
+email: rom@
+address: dubno
+
+
+the firstname is: valeriy;
+the lastname is: meladze;
+the phone number is: 23423;
+the age of the person is: 30;
+the year of birthday is: 1986
+email: valera@
+address: kiev
+
